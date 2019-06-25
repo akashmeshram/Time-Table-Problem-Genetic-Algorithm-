@@ -1,4 +1,4 @@
-# Time-Table-Problem-Genetic-Algorithm-
+# Time Table Problem Genetic Algorithm
 Implementation of Genetic Algorithm for optimizing Time table for University.
 Steps:-
 1) Run algomain.py file 
